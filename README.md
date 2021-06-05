@@ -32,4 +32,5 @@ https://docs.google.com/document/d/1rZwAbECFC-vNfg-TqJyMm82kJUaixuiJQcreBuTOPUw/
 
 
 https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist
+
 https://www.youtube.com/c/saiyam911
