@@ -33,4 +33,7 @@ https://docs.google.com/document/d/1rZwAbECFC-vNfg-TqJyMm82kJUaixuiJQcreBuTOPUw/
 
 https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist
 
+
+https://github.com/learnk8s/kubernetes-production-best-practices
+
 https://www.youtube.com/c/saiyam911
